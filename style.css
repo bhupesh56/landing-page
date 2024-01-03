@@ -39,6 +39,7 @@ h1{
 
 .nav{
     justify-content: space-around;
+    padding: 10px;
 }
 
 .first{
@@ -164,3 +165,6 @@ h1{
     padding: 10px;
 }
 
+a{
+    text-decoration: none;
+}
